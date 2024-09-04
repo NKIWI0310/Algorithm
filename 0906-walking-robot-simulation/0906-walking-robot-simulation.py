@@ -9,10 +9,10 @@ class Solution(object):
         for command in commands:
             if command > 0:  # 이동 처리
                 for _ in range(command):
-                    next_x = x + cDir[cIdx][0]
-                    next_y = y + cDir[cIdx][1]
-                    if (next_x, next_y) not in obstacles:
-                        x, y = next_x, next_y
+                    nX = x + cDir[cIdx][0]
+                    nY = y + cDir[cIdx][1]
+                    if (nX, nY) not in obstacles:
+                        x, y = nX, nY
                         answer = max(answer, x**2 + y**2)
                     else:
                         break
