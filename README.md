@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/NKIWI0310/Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/NKIWI0310/Algorithm/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
