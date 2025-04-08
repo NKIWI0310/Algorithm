@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/NKIWI0310/Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0906-walking-robot-simulation](https://github.com/NKIWI0310/Algorithm/tree/master/0906-walking-robot-simulation) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/NKIWI0310/Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NKIWI0310/Algorithm/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0595-big-countries](https://github.com/NKIWI0310/Algorithm/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/NKIWI0310/Algorithm/tree/master/1908-recyclable-and-low-fat-products) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/NKIWI0310/Algorithm/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
