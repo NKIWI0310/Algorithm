@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/NKIWI0310/Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NKIWI0310/Algorithm/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/NKIWI0310/Algorithm/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NKIWI0310/Algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/NKIWI0310/Algorithm/tree/master/0906-walking-robot-simulation) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NKIWI0310/Algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Breadth-First Search
 |  |
 | ------- |
