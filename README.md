@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/NKIWI0310/Algorithm/tree/master/1656-count-good-triplets) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NKIWI0310/Algorithm/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/NKIWI0310/Algorithm/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2249-count-the-hidden-sequences](https://github.com/NKIWI0310/Algorithm/tree/master/2249-count-the-hidden-sequences) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NKIWI0310/Algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Binary Search
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NKIWI0310/Algorithm/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2249-count-the-hidden-sequences](https://github.com/NKIWI0310/Algorithm/tree/master/2249-count-the-hidden-sequences) |
 ## String
 |  |
 | ------- |
