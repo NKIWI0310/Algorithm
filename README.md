@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/NKIWI0310/Algorithm/tree/master/0906-walking-robot-simulation) |
+| [1500-count-largest-group](https://github.com/NKIWI0310/Algorithm/tree/master/1500-count-largest-group) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NKIWI0310/Algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Breadth-First Search
 |  |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/NKIWI0310/Algorithm/tree/master/1656-count-good-triplets) |
+## Math
+|  |
+| ------- |
+| [1500-count-largest-group](https://github.com/NKIWI0310/Algorithm/tree/master/1500-count-largest-group) |
 <!---LeetCode Topics End-->
