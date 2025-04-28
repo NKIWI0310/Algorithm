@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NKIWI0310/Algorithm/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/NKIWI0310/Algorithm/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2249-count-the-hidden-sequences](https://github.com/NKIWI0310/Algorithm/tree/master/2249-count-the-hidden-sequences) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/NKIWI0310/Algorithm/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NKIWI0310/Algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Binary Search
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NKIWI0310/Algorithm/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/NKIWI0310/Algorithm/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Simulation
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NKIWI0310/Algorithm/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2249-count-the-hidden-sequences](https://github.com/NKIWI0310/Algorithm/tree/master/2249-count-the-hidden-sequences) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/NKIWI0310/Algorithm/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## String
 |  |
 | ------- |
@@ -76,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1500-count-largest-group](https://github.com/NKIWI0310/Algorithm/tree/master/1500-count-largest-group) |
+## Sliding Window
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/NKIWI0310/Algorithm/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
