@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/NKIWI0310/Algorithm/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2249-count-the-hidden-sequences](https://github.com/NKIWI0310/Algorithm/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/NKIWI0310/Algorithm/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/NKIWI0310/Algorithm/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NKIWI0310/Algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Binary Search
 |  |
@@ -83,4 +84,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/NKIWI0310/Algorithm/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/NKIWI0310/Algorithm/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 <!---LeetCode Topics End-->
