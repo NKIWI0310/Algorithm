@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/NKIWI0310/Algorithm/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/NKIWI0310/Algorithm/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NKIWI0310/Algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/NKIWI0310/Algorithm/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/NKIWI0310/Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/NKIWI0310/Algorithm/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/NKIWI0310/Algorithm/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,14 +57,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/NKIWI0310/Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/NKIWI0310/Algorithm/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/NKIWI0310/Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/NKIWI0310/Algorithm/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/NKIWI0310/Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/NKIWI0310/Algorithm/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Database
 |  |
 | ------- |
