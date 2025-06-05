@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/NKIWI0310/Algorithm/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/NKIWI0310/Algorithm/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Matrix
 |  |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3647-zero-array-transformation-iii](https://github.com/NKIWI0310/Algorithm/tree/master/3647-zero-array-transformation-iii) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/NKIWI0310/Algorithm/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
