@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/NKIWI0310/Algorithm/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/NKIWI0310/Algorithm/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NKIWI0310/Algorithm/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NKIWI0310/Algorithm/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/NKIWI0310/Algorithm/tree/master/0416-partition-equal-subset-sum) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NKIWI0310/Algorithm/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NKIWI0310/Algorithm/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3647-zero-array-transformation-iii](https://github.com/NKIWI0310/Algorithm/tree/master/3647-zero-array-transformation-iii) |
 ## Sorting
 |  |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/NKIWI0310/Algorithm/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NKIWI0310/Algorithm/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
