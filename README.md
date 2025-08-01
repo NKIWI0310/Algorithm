@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/NKIWI0310/Algorithm/tree/master/0118-pascals-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/NKIWI0310/Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0906-walking-robot-simulation](https://github.com/NKIWI0310/Algorithm/tree/master/0906-walking-robot-simulation) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/NKIWI0310/Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/NKIWI0310/Algorithm/tree/master/0118-pascals-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/NKIWI0310/Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NKIWI0310/Algorithm/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Enumeration
