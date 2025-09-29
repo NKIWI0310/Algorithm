@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0595-big-countries](https://github.com/NKIWI0310/Algorithm/tree/master/0595-big-countries) |
 | [1179-game-play-analysis-i](https://github.com/NKIWI0310/Algorithm/tree/master/1179-game-play-analysis-i) |
+| [1182-game-play-analysis-iv](https://github.com/NKIWI0310/Algorithm/tree/master/1182-game-play-analysis-iv) |
 | [1908-recyclable-and-low-fat-products](https://github.com/NKIWI0310/Algorithm/tree/master/1908-recyclable-and-low-fat-products) |
 ## Dynamic Programming
 |  |
