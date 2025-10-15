@@ -16,7 +16,7 @@ class Solution(object):
                 cnt += 1
             else:
                 tempCnt, cnt = cnt, 1
-            ans = max(ans, min(cnt, tempCnt)) 
             ans = max(ans, cnt // 2)
-       
+            ans = max(ans, min(cnt, tempCnt)) 
+
         return ans
