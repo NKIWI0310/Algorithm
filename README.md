@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/NKIWI0310/Algorithm/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/NKIWI0310/Algorithm/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/NKIWI0310/Algorithm/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/NKIWI0310/Algorithm/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/NKIWI0310/Algorithm/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/NKIWI0310/Algorithm/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/NKIWI0310/Algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/NKIWI0310/Algorithm/tree/master/1656-count-good-triplets) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/NKIWI0310/Algorithm/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Math
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/NKIWI0310/Algorithm/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3647-zero-array-transformation-iii](https://github.com/NKIWI0310/Algorithm/tree/master/3647-zero-array-transformation-iii) |
 ## Union Find
 |  |
