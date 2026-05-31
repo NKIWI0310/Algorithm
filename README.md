@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/NKIWI0310/Algorithm/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1656-count-good-triplets](https://github.com/NKIWI0310/Algorithm/tree/master/1656-count-good-triplets) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NKIWI0310/Algorithm/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2126-destroying-asteroids](https://github.com/NKIWI0310/Algorithm/tree/master/2126-destroying-asteroids) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/NKIWI0310/Algorithm/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2249-count-the-hidden-sequences](https://github.com/NKIWI0310/Algorithm/tree/master/2249-count-the-hidden-sequences) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/NKIWI0310/Algorithm/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -116,11 +117,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2126-destroying-asteroids](https://github.com/NKIWI0310/Algorithm/tree/master/2126-destroying-asteroids) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NKIWI0310/Algorithm/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3647-zero-array-transformation-iii](https://github.com/NKIWI0310/Algorithm/tree/master/3647-zero-array-transformation-iii) |
 ## Sorting
 |  |
 | ------- |
+| [2126-destroying-asteroids](https://github.com/NKIWI0310/Algorithm/tree/master/2126-destroying-asteroids) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/NKIWI0310/Algorithm/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3647-zero-array-transformation-iii](https://github.com/NKIWI0310/Algorithm/tree/master/3647-zero-array-transformation-iii) |
 ## Union Find
